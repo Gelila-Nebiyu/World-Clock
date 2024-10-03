@@ -94,3 +94,6 @@ body::before {
   height: 100%;
   z-index: -1;
 }
+a{
+    color: #df9ee6;
+}
